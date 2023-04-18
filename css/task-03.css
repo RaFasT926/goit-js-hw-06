@@ -1,0 +1,18 @@
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.item {
+    list-style: none;
+    
+}
+
+.image {
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 100%;
+}
